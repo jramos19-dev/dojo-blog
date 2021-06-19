@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "tags": [
+        "webdev",
+        "css"
+      ],
+      "title": "welcome to the cle",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet consectetur lectus. Aliquam quis viverra enim. Sed fermentum quis nunc non convallis. Sed sed rhoncus odio. Aenean finibus mi sed massa varius, eu venenatis urna vehicula. Suspendisse potenti. Duis et ornare ipsum. Vestibulum porta nulla nisl, ut rhoncus erat ultricies ac. Curabitur lobortis dignissim interdum. Donec venenatis sagittis nulla, nec feugiat libero pulvinar pretium. ",
+      "id": 1
+    },
+    {
+      "tags": [
+        "webdev",
+        "css"
+      ],
+      "title": "second post ",
+      "body": "lorem ipsum",
+      "id": 2
+    },
+    {
+      "tags": [
+        "webdev",
+        "css"
+      ],
+      "title": "third post ",
+      "body": "lorem ipsum",
+      "id": 3
+    },
+    {
+      "title": "heck",
+      "body": "hecking passwrords and stuff",
+      "tags": [
+        "css",
+        "   html"
+      ],
+      "id": 4
+    },
+    {
+      "title": "heck",
+      "body": "hecking passwrords and stuff",
+      "tags": [
+        "css",
+        "   html"
+      ],
+      "id": 5
+    },
+    {
+      "title": "new post",
+      "body": "new content",
+      "tags": [
+        "css"
+      ],
+      "id": 6
+    }
+  ]
+}
